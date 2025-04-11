@@ -43,8 +43,8 @@ We applied three clustering methods, exploring different perspectives:
 [Slide Deck](https://github.com/datamina/CreditCard-Customer-Segmentation/blob/main/Credit%20card%20customer%20segmentation.pdf)
 
 ## Other Members:
-(Natalia Neamtu)[https://github.com/NeamtuN]
-(Kristina Liu)[https://github.com/liu-kristina]
+[Natalia Neamtu](https://github.com/NeamtuN)
+[Kristina Liu](https://github.com/liu-kristina)
 
 ## Partner
 Constructor Academy
